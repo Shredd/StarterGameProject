@@ -1,6 +1,6 @@
 | StarterGameProject |
 
-This project is a Starter Project for SFML in C++
+This project is a Starter Game Project In C++ Using SFML
 
 to use this project you will need to have gcc and the SFML library installed
 
